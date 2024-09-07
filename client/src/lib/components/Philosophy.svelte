@@ -178,10 +178,8 @@ Unsere Projekte sind
 <p><br /></p>
 <div id="impressum">
 	<h4>Impressum</h4>
-	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um<a
-		href="https://github.com/moniquebaumann/freedomcash"
-		target="_blank">Open Source</a
-	>
+	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um
+	<a href="https://github.com/moniquebaumann/freedomcash" target="_blank">Open Source</a>
 	Bildungsprojekte ohne Gewinnerzielungsabsicht unsererseits. Wir sind bereits frei.
 	<p><br /></p>
 	Aus diesen Gründen verzichten wir auf ein
