@@ -162,8 +162,8 @@ für unsere Seiten ausgeben, handelt es sich vielleicht um Scammer.
 <p><br /></p>
 
 <h4>Kontakt</h4>
-<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Unsere</a> Projekte
-sind <a href="https://github.com/moniquebaumann/freedomcash" target="_blank"> Open Source</a>.
+Unsere Projekte sind
+<a href="https://github.com/moniquebaumann/freedomcash" target="_blank"> Open Source</a>.
 <p>
 	<br />Wir glauben nicht an zentrale Verantwortlichkeiten. Daher reagieren wir selten oder gar
 	nicht auf E-Mails an <a href="mailto:monique@freedomcash.org">monique@freedomcash.org</a>.

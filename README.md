@@ -1,6 +1,8 @@
 # Freiheitsgeld 
-## Unsere Internetseite
-[FreedomCash.org](https://FreedomCash.org)
+## Unsere Internetseiten
+[FreedomCash.org](https://FreedomCash.org)  
+[FreiheitsGeld.de](https://FreiheitsGeld.de)  
+[Geo-Caching.org](https://Geo-Caching.org)
 
 ## Unsere Ziele
 Wir möchten Menschen für Freiheit, Weltfrieden und Freundschaft begeistern.
